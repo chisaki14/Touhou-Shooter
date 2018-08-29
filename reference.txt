@@ -1,0 +1,14 @@
+Player Sprite
+https://www.spriters-resource.com/pc_computer/touhouseirensenundefinedfantasticobject/sheet/91692/
+
+Boss Sprite
+https://www.spriters-resource.com/nec_pc_9801/touhoureiidenthehighlyresponsivetoprayers/sheet/103558/
+
+Life Icon
+https://s8mu715oxt-flywheel.netdna-ssl.com/wp-content/uploads/2017/11/8_bit_heart_stock_by_xquatrox-d4r844m.png
+
+KeyDrown API
+https://jeremyckahn.github.io/keydrown/
+
+Background Music
+https://www.youtube.com/watch?v=XDNsk2UXYE4

@@ -1,0 +1,104 @@
+html, body{
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.bg-music{
+    display: none;
+}
+
+.canvas{
+    display: block;
+    position: fixed;
+    top: 0;
+}
+
+.main-container{
+    height: 100%;
+    background-color: #576574;
+}
+
+.main-content{
+    width: 100%;
+    height: 100%;
+    margin: auto;
+    display: flex;
+}
+
+.game-container{
+    width: 80%;
+    height: 100%;
+}
+
+.enemy-info-container{
+    box-sizing: border-box;
+    padding: 5px 8px;
+    color: white;
+    z-index: 2;
+    position: relative;
+}
+
+.enemy-info-content{
+    width: 100%;
+}
+
+.enemy-name{
+    text-align: center;
+    font-size: 1.2em;
+    margin-bottom: 2px;
+    height: 1.2em;
+}
+
+.enemy-hp{
+    background-color: white;
+    height: 3px;
+    border-radius: 2px;
+    margin: auto;
+}
+
+.game-window-container{
+    width: 20%;
+    min-width: 200px;
+    height: 100%;
+    box-sizing: border-box;
+    padding: 28px 20px;
+    text-align: center;
+    background-color: #c7ecee;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.title-container{
+    margin-bottom: 50px;
+}
+
+.title-content{
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+
+.score-counter{
+    font-size: 2rem;
+}
+
+.player-info-container{
+    margin-top: 50px;
+}
+
+.life-counter{
+    min-height: 29px;
+}
+
+.help-container{
+    margin-top: 50px;
+}
+
+.audio-controller{
+    margin-top: 100px;
+    cursor: pointer;
+}
+
+.audio-icon{
+    font-size: 1.5em;
+}
